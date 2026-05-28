@@ -163,7 +163,7 @@ export const translations: Translations = {
   whatIsAdgiliDesc1: {
     EN: 'ADGILI (meaning "place" in Georgian) is your gateway to discovering and booking the best dining experiences across Georgia. We connect food lovers with exceptional restaurants, from traditional Georgian cuisine to modern fusion experiences.',
     GE: 'ADGILI (ქართულად "ადგილი") არის თქვენი კარიბჭე საქართველოს საუკეთესო კვებითი გამოცდილების აღმოსაჩენად და დასაჯავშნად. ჩვენ ვაკავშირებთ საჭმლის მოყვარულებს განსაკუთრებულ რესტორნებთან, ტრადიციული ქართული სამზარეულოდან თანამედროვე ფიუჟენ გამოცდილებამდე.',
-    RU: 'ADGILI (что означает «место» на грузинском) — это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
+    RU: 'ADGILI (что означает «место» на грузинском)  это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
   },
   whatIsAdgiliDesc2: {
     EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, ADGILI transforms how Georgians dine out.",
@@ -172,7 +172,7 @@ export const translations: Translations = {
   },
   instantBooking: {
     EN: "Instant Booking",
-    GE: "მყისიერი დაჯავშნა",
+    GE: "წამიერი დაჯავშნა",
     RU: "Мгновенное бронирование",
   },
   verifiedReviews: {
@@ -214,7 +214,7 @@ export const translations: Translations = {
   },
   whyChooseSubtext: {
     EN: "We've reimagined restaurant booking to be fast, reliable, and rewarding.",
-    GE: "ჩვენ ხელახლა წარმოვიდგინეთ რესტორნების დაჯავშნა - სწრაფი, საიმედო და მომგებიანი.",
+    GE: "ჩვენ წარმოგვიდგენია რესტორნების დაჯავშვნა სწრაფი, საიმედო და მომგებიანი.",
     RU: "Мы переосмыслили бронирование ресторанов, чтобы оно было быстрым, надежным и выгодным.",
   },
   lightningFast: {
