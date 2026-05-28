@@ -93,13 +93,13 @@ export const translations: Translations = {
   },
   heroTitle2: {
     EN: "Two Clicks",
-    GE: "ორ კლიკში",
+    GE: "მარტივად",
     RU: "Два клика",
   },
   heroSubtext: {
-    EN: "Discover and reserve tables at the finest restaurants across Georgia. From cozy cafes to Michelin-worthy experiences, all in one app.",
-    GE: "აღმოაჩინეთ და დაჯავშნეთ მაგიდები საქართველოს საუკეთესო რესტორნებში. კაფეებიდან მიშლენის ღირსეულ გამოცდილებამდე, ყველაფერი ერთ აპლიკაციაში.",
-    RU: "Откройте для себя и забронируйте столики в лучших ресторанах Грузии. От уютных кафе до ресторанов уровня Мишлен — всё в одном приложении.",
+    EN: "Discover and reserve tables at the finest restaurants across Georgia. From cozy cafes to fine dining experiences, all in one app.",
+    GE: "აღმოაჩინეთ და დაჯავშნეთ მაგიდები საქართველოს საუკეთესო რესტორნებში. კაფეებიდან საუკეთესო რესტორნებამდე, ყველაფერი ერთ აპლიკაციაში.",
+    RU: "Откройте для себя и забронируйте столики в лучших ресторанах Грузии. От уютных кафе до лучших ресторанов, всё в одном приложении.",
   },
 
   // App mockup
@@ -145,12 +145,12 @@ export const translations: Translations = {
   },
   fineDining: {
     EN: "Fine Dining",
-    GE: "ფაინ დაინინგი",
+    GE: "პრემიუმ რესტორნები",
     RU: "Изысканная кухня",
   },
   experienceAuthentic: {
     EN: "Experience authentic Georgian cuisine in the heart of Tbilisi...",
-    GE: "გამოიცადეთ ნამდვილი ქართული სამზარეულო თბილისის გულში...",
+    GE: "გამოცადეთ ნამდვილი ქართული სამზარეულო თბილისის ცენტრში...",
     RU: "Откройте для себя настоящую грузинскую кухню в сердце Тбилиси...",
   },
 
@@ -163,16 +163,16 @@ export const translations: Translations = {
   whatIsAdgiliDesc1: {
     EN: 'ADGILI (meaning "place" in Georgian) is your gateway to discovering and booking the best dining experiences across Georgia. We connect food lovers with exceptional restaurants, from traditional Georgian cuisine to modern fusion experiences.',
     GE: 'ADGILI (ქართულად "ადგილი") არის თქვენი კარიბჭე საქართველოს საუკეთესო კვებითი გამოცდილების აღმოსაჩენად და დასაჯავშნად. ჩვენ ვაკავშირებთ საჭმლის მოყვარულებს განსაკუთრებულ რესტორნებთან, ტრადიციული ქართული სამზარეულოდან თანამედროვე ფიუჟენ გამოცდილებამდე.',
-    RU: 'ADGILI (что означает «место» на грузинском) — это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
+    RU: 'ADGILI (что означает «место» на грузинском)  это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
   },
   whatIsAdgiliDesc2: {
     EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, ADGILI transforms how Georgians dine out.",
-    GE: "ჩვენი მისიაა რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, ADGILI ცვლის ქართველების რესტორანში სტუმრობის გამოცდილებას.",
-    RU: "Наша миссия — сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, ADGILI меняет то, как грузины обедают вне дома.",
+    GE: "ჩვენი მიზანია რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, ADGILI ცვლის ქართველების რესტორანში სტუმრობის გამოცდილებას.",
+    RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, ADGILI меняет то, как грузины обедают вне дома.",
   },
   instantBooking: {
     EN: "Instant Booking",
-    GE: "მყისიერი დაჯავშნა",
+    GE: "წამიერი დაჯავშნა",
     RU: "Мгновенное бронирование",
   },
   verifiedReviews: {
@@ -214,7 +214,7 @@ export const translations: Translations = {
   },
   whyChooseSubtext: {
     EN: "We've reimagined restaurant booking to be fast, reliable, and rewarding.",
-    GE: "ჩვენ ხელახლა წარმოვიდგინეთ რესტორნების დაჯავშნა - სწრაფი, საიმედო და მომგებიანი.",
+    GE: "ჩვენ წარმოგვიდგენია რესტორნების დაჯავშვნა სწრაფი, საიმედო და მომგებიანი.",
     RU: "Мы переосмыслили бронирование ресторанов, чтобы оно было быстрым, надежным и выгодным.",
   },
   lightningFast: {
@@ -234,7 +234,7 @@ export const translations: Translations = {
   },
   guaranteedTablesDesc: {
     EN: "Every booking is confirmed instantly. No more waiting for callbacks.",
-    GE: "ყოველი დაჯავშნა მყისიერად დასტურდება. აღარ დაელოდოთ უკუკავშირს.",
+    GE: "ყოველი დაჯავშნა წამიერად დასტურდება. აღარ დაელოდოთ უკუკავშირს.",
     RU: "Каждое бронирование подтверждается мгновенно. Больше никаких ожиданий обратных звонков.",
   },
   exclusivePerks: {
@@ -254,7 +254,7 @@ export const translations: Translations = {
   },
   localExpertiseDesc: {
     EN: "Curated selection of the best restaurants, handpicked by locals.",
-    GE: "საუკეთესო რესტორნების შერჩეული კოლექცია, ადგილობრივების მიერ არჩეული.",
+    GE: "საუკეთესო რესტორნების კოლექცია, რომლებიც ადგილობრივების მიერაა არჩეული.",
     RU: "Отборная коллекция лучших ресторанов, выбранных местными жителями.",
   },
 
@@ -301,7 +301,7 @@ export const translations: Translations = {
   },
   confirmDesc: {
     EN: "Complete your booking instantly. Receive confirmation and reminders.",
-    GE: "დაასრულეთ დაჯავშნა მყისიერად. მიიღეთ დადასტურება და შეხსენებები.",
+    GE: "დაასრულეთ დაჯავშნა წამიერად. მიიღეთ დადასტურება და შეხსენებები.",
     RU: "Завершите бронирование мгновенно. Получите подтверждение и напоминания.",
   },
 
@@ -318,7 +318,7 @@ export const translations: Translations = {
   },
   getTheAppSubtext: {
     EN: "Download ADGILI today and start discovering amazing restaurants in Georgia.",
-    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოს საოცარი რესტორნების აღმოჩენა.",
+    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოშ არსებული საოცარი რესტორნების აღმოჩენა.",
     RU: "Скачайте ADGILI сегодня и начните открывать потрясающие рестораны Грузии.",
   },
 
