@@ -782,7 +782,7 @@ export const translations: Translations = {
   // Delete Account Page
   deleteYourAccount: {
     EN: "Delete Your Account",
-    GE: "თქვენი ანგარიშის წაშლა",
+    GE: "თქვენი აქაუნთის წაშლა",
     RU: "Удалить ваш аккаунт",
   },
   deleteAccountDesc: {
