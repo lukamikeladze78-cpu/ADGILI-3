@@ -372,7 +372,7 @@ export const translations: Translations = {
   },
   faqQ1: {
     EN: "How do I make a reservation?",
-    GE: "როგორ გავაკეთო დაჯავშნა?",
+    GE: "როგორ დავჯავშნო მაგიდა?",
     RU: "Как сделать бронирование?",
   },
   faqA1: {
