@@ -254,7 +254,7 @@ export const translations: Translations = {
   },
   localExpertiseDesc: {
     EN: "Curated selection of the best restaurants, handpicked by locals.",
-    GE: "საუკეთესო რესტორნების შერჩეული კოლექცია, ადგილობრივების მიერ არჩეული.",
+    GE: "საუკეთესო რესტორნების შერჩეული კოლექცია, რომლებიც ადგილობრივების მიერაა არჩეული.",
     RU: "Отборная коллекция лучших ресторанов, выбранных местными жителями.",
   },
 
