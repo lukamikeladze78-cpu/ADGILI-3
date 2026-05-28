@@ -354,9 +354,9 @@ export const translations: Translations = {
     RU: "Удалить аккаунт",
   },
   copyright: {
-    EN: "© 2025 ADGILI. All rights reserved.",
-    GE: "© 2025 ADGILI. ყველა უფლება დაცულია.",
-    RU: "© 2025 ADGILI. Все права защищены.",
+    EN: "© 2026 ADGILI. All rights reserved.",
+    GE: "© 2026 ADGILI. ყველა უფლება დაცულია.",
+    RU: "© 2026 ADGILI. Все права защищены.",
   },
 
   // FAQs Page
