@@ -428,16 +428,16 @@ export const translations: Translations = {
   faqA6: {
     EN: "ADGILI is a booking platform only. Payments are handled directly by the restaurants. Most restaurants accept cash, credit cards, and mobile payments.",
     GE: "ADGILI მხოლოდ დაჯავშნის პლატფორმაა. გადახდები ხდება პირდაპირ რესტორნებში. რესტორნების უმეტესობა იღებს ნაღდ ფულს, საკრედიტო ბარათებს და მობილურ გადახდებს.",
-    RU: "ADGILI — это только платформа для бронирования. Оплата производится непосредственно в ресторанах. Большинство ресторанов принимают наличные, кредитные карты и мобильные платежи.",
+    RU: "ADGILI  это только платформа для бронирования. Оплата производится непосредственно в ресторанах. Большинство ресторанов принимают наличные, кредитные карты и мобильные платежи.",
   },
   faqQ7: {
     EN: "Do I need an account to make a reservation?",
-    GE: "მჭირდება თუ არა ანგარიში დაჯავშნისთვის?",
+    GE: "მჭირდება თუ არა აქაუნთი დაჯავშნისთვის?",
     RU: "Нужен ли аккаунт для бронирования?",
   },
   faqA7: {
     EN: "Yes, you need to create a free account to make reservations. This allows you to manage your bookings and receive confirmation notifications.",
-    GE: "დიახ, დაჯავშნისთვის საჭიროა უფასო ანგარიშის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
+    GE: "დიახ, დაჯავშნისთვის საჭიროა უფასო აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
     RU: "Да, для бронирования необходимо создать бесплатный аккаунт. Это позволяет управлять бронированиями и получать уведомления о подтверждении.",
   },
   faqQ8: {
@@ -467,7 +467,7 @@ export const translations: Translations = {
   },
   faqA10: {
     EN: "Ratings are based on verified reviews from guests who have actually dined at the restaurant through ADGILI. Only confirmed diners can leave reviews, ensuring authenticity.",
-    GE: "რეიტინგები ეფუძნება დადასტურებულ შეფასებებს სტუმრებისგან, რომლებიც რეალურად ისადილეს რესტორანში ADGILI-ს საშუალებით. მხოლოდ დადასტურებულ სტუმრებს შეუძლიათ შეფასების დატოვება, რაც უზრუნველყოფს ავთენტურობას.",
+    GE: "რეიტინგები ეფუძნება დადასტურებულ შეფასებებს სტუმრებისგან, რომლებმაც რეალურად ისადილეს რესტორანში ADGILI-ს საშუალებით. მხოლოდ დადასტურებულ სტუმრებს შეუძლიათ შეფასების დატოვება, რაც უზრუნველყოფს ავთენტურობას.",
     RU: "Рейтинги основаны на проверенных отзывах гостей, которые действительно обедали в ресторане через ADGILI. Только подтвержденные гости могут оставлять отзывы, что обеспечивает достоверность.",
   },
 
@@ -782,7 +782,7 @@ export const translations: Translations = {
   // Delete Account Page
   deleteYourAccount: {
     EN: "Delete Your Account",
-    GE: "თქვენი ანგარიშის წაშლა",
+    GE: "თქვენი აქაუნთის წაშლა",
     RU: "Удалить ваш аккаунт",
   },
   deleteAccountDesc: {
@@ -802,7 +802,7 @@ export const translations: Translations = {
   },
   understandPermanent: {
     EN: "I understand this is permanent and cannot be undone",
-    GE: "��ესმის, რომ ეს სამუდამოა და ვერ გაუქმდება",
+    GE: "მესმის, რომ ეს სამუდამოა და უკან აღარ დაბრუნდება",
     RU: "Я понимаю, что это навсегда и не может быть отменено",
   },
   submitDeletionRequest: {
@@ -817,7 +817,7 @@ export const translations: Translations = {
   },
   requestSubmittedDesc: {
     EN: "We've received your account deletion request. Your account will be permanently deleted within 30 days. You'll receive a confirmation email shortly.",
-    GE: "ჩვენ მივიღეთ თქვენი ანგარიშის წაშლის მოთხოვნა. თქვენი ანგარიში სამუდამოდ წაიშლება 30 დღის განმავლობაში. მალე მიიღებთ დადასტურების ელ.ფოსტას.",
+    GE: "ჩვენ მივიღეთ თქვენი აქაუნთის წაშლის მოთხოვნა. თქვენი აქაუნთი სამუდამოდ წაიშლება 30 დღის განმავლობაში. მალე მიიღებთ დადასტურების ელ.ფოსტას.",
     RU: "Мы получили ваш запрос на удаление учетной записи. Ваша учетная запись будет окончательно удалена в течение 30 дней. Вскоре вы получите письмо с подтверждением.",
   },
 }
