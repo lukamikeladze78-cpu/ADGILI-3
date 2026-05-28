@@ -150,7 +150,7 @@ export const translations: Translations = {
   },
   experienceAuthentic: {
     EN: "Experience authentic Georgian cuisine in the heart of Tbilisi...",
-    GE: "გამოიცადეთ ნამდვილი ქართული სამზარეულო თბილისის გულში...",
+    GE: "გამოცადეთ ნამდვილი ქართული სამზარეულო თბილისის ცენტრში...",
     RU: "Откройте для себя настоящую грузинскую кухню в сердце Тбилиси...",
   },
 
