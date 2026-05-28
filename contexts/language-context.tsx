@@ -93,7 +93,7 @@ export const translations: Translations = {
   },
   heroTitle2: {
     EN: "Two Clicks",
-    GE: "ორ კლიკში",
+    GE: "მარტივად",
     RU: "Два клика",
   },
   heroSubtext: {
