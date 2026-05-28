@@ -301,7 +301,7 @@ export const translations: Translations = {
   },
   confirmDesc: {
     EN: "Complete your booking instantly. Receive confirmation and reminders.",
-    GE: "დაასრულეთ დაჯავშნა მყისიერად. მიიღეთ დადასტურება და შეხსენებები.",
+    GE: "დაასრულეთ დაჯავშნა წამიერად. მიიღეთ დადასტურება და შეხსენებები.",
     RU: "Завершите бронирование мгновенно. Получите подтверждение и напоминания.",
   },
 
