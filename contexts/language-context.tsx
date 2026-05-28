@@ -318,7 +318,7 @@ export const translations: Translations = {
   },
   getTheAppSubtext: {
     EN: "Download ADGILI today and start discovering amazing restaurants in Georgia.",
-    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოშ არსებული საოცარი რესტორნების აღმოჩენა.",
+    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოში არსებული საოცარი რესტორნების აღმოჩენა.",
     RU: "Скачайте ADGILI сегодня и начните открывать потрясающие рестораны Грузии.",
   },
 
@@ -354,9 +354,9 @@ export const translations: Translations = {
     RU: "Удалить аккаунт",
   },
   copyright: {
-    EN: "© 2025 ADGILI. All rights reserved.",
-    GE: "© 2025 ADGILI. ყველა უფლება დაცულია.",
-    RU: "© 2025 ADGILI. Все права защищены.",
+    EN: "© 2026 ADGILI. All rights reserved.",
+    GE: "© 2026 ADGILI. ყველა უფლება დაცულია.",
+    RU: "© 2026 ADGILI. Все права защищены.",
   },
 
   // FAQs Page
@@ -372,7 +372,7 @@ export const translations: Translations = {
   },
   faqQ1: {
     EN: "How do I make a reservation?",
-    GE: "როგორ გავაკეთო დაჯავშნა?",
+    GE: "როგორ დავჯავშნო მაგიდა?",
     RU: "Как сделать бронирование?",
   },
   faqA1: {
